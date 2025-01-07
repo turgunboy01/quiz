@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem",
+    option2: "Router",
+    option3: "Lan Cabel",
+    option4: "Pen Drive",
+    ans: 1,
+  },
+  {
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem 2",
+    option2: "Router 2",
+    option3: "Lan Cabel 2",
+    option4: "Pen Drive 2",
+    ans: 2,
+  },
+  {
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem 3",
+    option2: "Router 3",
+    option3: "Lan Cabel 3",
+    option4: "Pen Drive 3",
+    ans: 3,
+  },
+  {
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem 4",
+    option2: "Router 4",
+    option3: "Lan Cabel 4",
+    option4: "Pen Drive 4",
+    ans: 4,
+  },
+  {
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem 5",
+    option2: "Router 5",
+    option3: "Lan Cabel 5",
+    option4: "Pen Drive 5",
+    ans: 2,
+  },
+];
