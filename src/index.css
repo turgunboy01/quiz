@@ -1,17 +1,16 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(#d8c7ff, #19006c);
+}
+.corrent {
+  background: #dffff2;
+  border-color: #00d397;
 }
 
-a {
-  text-decoration: none;
-}
-body {
-  height: 100vh;
-  background: linear-gradient(#d8c7ff, #19006c);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.wrong {
+  background: #ffebeb;
+  border-color: #ff4a4a;
 }
