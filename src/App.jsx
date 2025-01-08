@@ -3,10 +3,11 @@ import Quiz from "./components/quiz/Quiz";
 
 const App = () => {
   return (
-    <div className="h-[100vh] flex justify-center items-center">
+    <div className="min-h-[100vh] h-full flex justify-center items-center">
       <Quiz />
     </div>
   );
 };
 
 export default App;
+ 
